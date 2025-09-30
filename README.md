@@ -32,10 +32,14 @@ Run the Flask app
 
 <h2>Future Improvements</h2>
 
-📊 Use content-based filtering (book genres, authors, keywords)
+-Use content-based filtering (book genres, authors, keywords)
 
-🤝 Hybrid model (collaborative + content-based)
+- Hybrid model (collaborative + content-based)
 
-🎨 Improve UI/UX with better frontend design
+- Improve UI/UX with better frontend design
 
-☁️ Deploy on Heroku/Render/Streamlit Cloud
+- Deploy on Heroku/Render/Streamlit Cloud
+
+🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
