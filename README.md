@@ -21,11 +21,11 @@ Demo is in the folder named 'demo images' in this repo.
 # Clone the repository
 git clone https://github.com/YourUsername/Books-Recommendation-System.git
 
-# Navigate to project directory
-cd Books-Recommendation-System
+ Navigate to the project directory
+-cd Books-Recommendation-System
 
-# Install dependencies
-pip install -r requirements.txt
+Install dependencies
+-pip install -r requirements.txt
 
-# Run the Flask app
-python app.py
+Run the Flask app
+-python app.py
