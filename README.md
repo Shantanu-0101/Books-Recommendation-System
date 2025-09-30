@@ -29,3 +29,13 @@ Install dependencies
 
 Run the Flask app
 -python app.py
+
+<h2>Future Improvements</h2>
+
+📊 Use content-based filtering (book genres, authors, keywords)
+
+🤝 Hybrid model (collaborative + content-based)
+
+🎨 Improve UI/UX with better frontend design
+
+☁️ Deploy on Heroku/Render/Streamlit Cloud
