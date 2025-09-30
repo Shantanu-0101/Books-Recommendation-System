@@ -9,4 +9,5 @@ The web app is built with Flask and uses cosine similarity on preprocessed book 
 -A cosine similarity matrix is created based on user-book interactions.
 
 -When a user selects a book, the system finds the most similar books using collaborative filtering.
+
 -Flask serves the recommendations on a user-friendly web page.
