@@ -11,3 +11,21 @@ The web app is built with Flask and uses cosine similarity on preprocessed book 
 -When a user selects a book, the system finds the most similar books using collaborative filtering.
 
 -Flask serves the recommendations on a user-friendly web page.
+
+
+<h2>Demo:</h2>
+Demo is in the folder named 'demo images' in this repo.
+
+
+<h2>Installation:</h2>
+# Clone the repository
+git clone https://github.com/YourUsername/Books-Recommendation-System.git
+
+# Navigate to project directory
+cd Books-Recommendation-System
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Flask app
+python app.py
