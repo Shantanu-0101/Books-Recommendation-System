@@ -26,7 +26,7 @@ git clone https://github.com/YourUsername/Books-Recommendation-System.git
 Install dependencies
 -pip install -r requirements.txt
 
-Run the Flask app
+Run the Flask app:
 -python app.py
 
 <h2>Future Improvements</h2>
